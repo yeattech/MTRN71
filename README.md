@@ -4,7 +4,7 @@
 
 # Environment
 
-- java 21
+- java 17
 - node 22
 - gradle 8.14.1 (Check android/gradle/wrapper/gradle-wrapper.properties)
 
@@ -20,7 +20,7 @@ node -v
 Switch version in Mac
 
 ```
-export JAVA_HOME=$(/usr/libexec/java_home -v 21)
+export JAVA_HOME=$(/usr/libexec/java_home -v 17)
 nvm use 22
 nvm alias default 22
 ```
