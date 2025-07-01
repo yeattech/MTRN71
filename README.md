@@ -34,3 +34,7 @@ nvm alias default 22
 - main (The main for release, versioning tag here)
 - develop/master (Development Should be done in here)
 - develop/feature (Specific Function)
+
+# Rename
+
+- npx react-native-rename "MT RN71" -b "my.test.rn71"
